@@ -1,0 +1,25 @@
+Aula 01 Fabrica
+
+Conceito http:
+
+-padrao de requisitos
+-protocolo / dominio / recurso
+-caso haja falha é retornado um erro
+
+
+Commandos git
+
+git init (Inicia diretorio local)
+
+.git/ (Entrando no diretorio)
+
+git add.NomedoArquivo (adicionando arquivos no diretorio) (. Operador exclusente) 
+
+git status (Checando status do diretorio)
+
+gitk (Mostra a branch do git)
+
+pit push origin main
+
+.gitignore
+
