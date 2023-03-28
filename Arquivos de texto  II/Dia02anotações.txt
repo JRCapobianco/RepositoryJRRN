@@ -1,0 +1,34 @@
+*Dia 02 Fábrica:
+
+O que é uma API: ?
+
+- Apllication programming interface, "O back-end em si".
+
+e API REST ?
+
+- A interação do back-end com alguma outra funcionalidade. (ex: Front-End)
+
+*Insomnia - API Client
+
+*Django - Framework Model Template View MTV
+
+Passos:
+- Criar pasta crudteste.
+- Abrir pasta crudteste no VSCODE.
+- Abrir terminal CMD.
+- Comando "python -m venv cliente1" (Criação de ambiente virtual).
+- Ativdando venv: crudteste - cliente1 - scripts -activate.
+- Voltar para pasta crudteste e instalar Django - "pip install Django".
+- Iniciar projeto - "django-adming startproject projetocrud ."
+- Rodar o servidor - "python manage.py runserver".
+- Pegar endereço IP. - "http://127.0.0.1:8000".
+- Abrir banco de dados SQLITE - "python manage.py migrate" .
+- create superuser - "python manage.py createsuperuser(admin,123)".
+- "http://127.0.0.1:8000/admin".
+- Login e senha.
+- criar app - python manage.py startapp core.
+
+
+
+
+
