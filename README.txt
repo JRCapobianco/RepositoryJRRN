@@ -11,3 +11,7 @@ Aluno: João Rodrigues Ramalho Neto // RGM: 30102995
 O sistema possui duas entidades principais: "Alunos" e "Funcionarios" e em ambos serão armazenados seus nomes, credenciais e  telefones, o que difere entre os dois é que enquanto os Alunos terão o elemento "Plano", os funcionários terão "Cargo".
 
 A paginação foi configurada para apresentar 5 entidades por página.
+
+Banco de dados utilizado: Postgresql -> psycog2
+
+
